@@ -4,6 +4,16 @@ DevOps Enthusiast | Building Infrastructure & Automation
 
 ---
 
+## 🎮 Play Snake Game
+
+<div align="center">
+
+[![Snake Game](https://img.shields.io/badge/Play%20Snake%20Game-Click%20Here-brightgreen?style=for-the-badge)](https://sshivanshg.github.io/sshivanshg/snake-game.html)
+
+</div>
+
+---
+
 ## 🔧 Focus
 
 - **DevOps & Infrastructure**: CI/CD pipelines, containerization, cloud automation
