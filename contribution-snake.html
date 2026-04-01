@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contribution Snake Game</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f6f8fa;
+            margin: 0;
+        }
+        #game {
+            display: grid;
+            grid-template-columns: repeat(20, 20px);
+            grid-template-rows: repeat(20, 20px);
+            gap: 1px;
+            background-color: #c6e48b;
+        }
+        .snake {
+            background-color: #216e39;
+        }
+        .food {
+            background-color: #d73a4a;
+        }
+    </style>
+</head>
+<body>
+    <div id="game"></div>
+    <script>
+        const game = document.getElementById('game');
+        let snake = [{ x: 10, y: 10 }];
+        let food = { x: Math.floor(Math.random() * 20), y: Math.floor(Math.random() * 20) };
+        let direction = { x: 0, y: 0 };
+        let score = 0;
+
+        function draw() {
+            game.innerHTML = '';
+            snake.forEach(segment => {
+                const div = document.createElement('div');
+                div.style.gridRowStart = segment.y + 1;
+                div.style.gridColumnStart = segment.x + 1;
+                div.classList.add('snake');
+                game.appendChild(div);
+            });
+
+            const foodDiv = document.createElement('div');
+            foodDiv.style.gridRowStart = food.y + 1;
+            foodDiv.style.gridColumnStart = food.x + 1;
+            foodDiv.classList.add('food');
+            game.appendChild(foodDiv);
+        }
+
+        function move() {
+            const head = { x: snake[0].x + direction.x, y: snake[0].y + direction.y };
+            snake.unshift(head);
+            if (head.x === food.x && head.y === food.y) {
+                score++;
+                food = { x: Math.floor(Math.random() * 20), y: Math.floor(Math.random() * 20) };
+            } else {
+                snake.pop();
+            }
+            draw();
+        }
+
+        function changeDirection(event) {
+            switch (event.key) {
+                case 'ArrowUp':
+                    direction = { x: 0, y: -1 };
+                    break;
+                case 'ArrowDown':
+                    direction = { x: 0, y: 1 };
+                    break;
+                case 'ArrowLeft':
+                    direction = { x: -1, y: 0 };
+                    break;
+                case 'ArrowRight':
+                    direction = { x: 1, y: 0 };
+                    break;
+            }
+        }
+
+        document.addEventListener('keydown', changeDirection);
+        setInterval(move, 200);
+        draw();
+    </script>
+</body>
+</html>
