@@ -32,25 +32,15 @@ class Shivansh:
 
 <div align="center">
 
-```
-       __________________________
-      /                          \___________________
-     |   ()  ()  ()  ()  ()       |  ||  ||  ||  ||   \_______
-     |    _________________       |__||__||__||__||__________ \
-      \__/                                                     \_O
-         \____________________________________________________/
-                      Shivansh's Stratocaster ⚡
-```
-
-![Riff Scroll](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=400&color=00FF9C&center=true&vCenter=true&width=720&height=60&lines=E%7C---------------7---------5-------;B%7C-----8---8h10p8---8---5h7p5---;G%7C---7---------------7---------;D%7C-----------------------------;A%7C-----------------------------;E%7C-----------------------------)
+![Guitar Riff](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=700&color=00FF9C&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%8E%B8+plugged+in.+tuned+to+E+standard;%E2%96%B6+warming+up...+gain+%40+7;%E2%99%AA+now+riffing%3A+hotel+california;%E2%99%AA+now+riffing%3A+sweet+child+o%27+mine;%E2%99%AA+now+riffing%3A+smoke+on+the+water;%E2%9A%A1+amp.gain+%3D+MAX)
 
 </div>
 
 ```
-amp     ──→  marshall  / line6 helix
-guitar  ──→  strat // les paul // ibanez
-pedals  ──→  tube screamer · big muff · delay
-daw     ──→  reaper + neural dsp
+amp     ──→  marshall  /  line6 helix
+guitar  ──→  strat  //  les paul  //  ibanez
+pedals  ──→  tube screamer  ·  big muff  ·  delay
+daw     ──→  reaper  +  neural dsp
 ```
 
 > *"good code is like a good solo — clean, tight, and hits when it counts."*
