@@ -2,12 +2,12 @@
 
 ```
     ╔═══════════════════════════════════════════════╗
-    ║  > shivansh.gupta // engineer.musician   ║
+    ║  > Shivansh.gupta // engineer.musician        ║
     ║  > status: compiling riffs && shipping code   ║
     ╚═══════════════════════════════════════════════╝
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=hey%2C+i'm+shivansh+%F0%9F%91%8B;i+write+code+by+day;i+shred+guitar+by+night;welcome+to+my+corner+of+the+grid)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Shivansh+%F0%9F%91%8B;I+write+code+by+day;I+shred+guitar+by+night;welcome+to+my+corner+of+the+grid)
 
 </div>
 
@@ -29,6 +29,22 @@ class Shivansh:
 ---
 
 ### 🎸 the rig
+
+<div align="center">
+
+```
+       __________________________
+      /                          \___________________
+     |   ()  ()  ()  ()  ()       |  ||  ||  ||  ||   \_______
+     |    _________________       |__||__||__||__||__________ \
+      \__/                                                     \_O
+         \____________________________________________________/
+                      Shivansh's Stratocaster ⚡
+```
+
+![Riff Scroll](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=400&color=00FF9C&center=true&vCenter=true&width=720&height=60&lines=E%7C---------------7---------5-------;B%7C-----8---8h10p8---8---5h7p5---;G%7C---7---------------7---------;D%7C-----------------------------;A%7C-----------------------------;E%7C-----------------------------)
+
+</div>
 
 ```
 amp     ──→  marshall  / line6 helix
@@ -58,35 +74,12 @@ daw     ──→  reaper + neural dsp
 
 ---
 
-### 📈 metrics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sshivanshg&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshivanshg&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sshivanshg&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
-
-</div>
-
----
-
-### 🐍 the snake eats the contributions
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/sshivanshg/sshivanshg/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ### 🎧 now playing
 
 ```
  ┌─────────────────────────────────────────────┐
- │  ♫  polyphia — playing god                  │
- │  ▶  ━━━━━━●─────────────  02:14 / 03:42     │
+ │  ♫  eagles — hotel california               │
+ │  ▶  ━━━━━●───────────────  03:13 / 06:31    │
  │  ⏮   ⏯   ⏭     vol ▓▓▓▓▓▓▓░░░               │
  └─────────────────────────────────────────────┘
 ```
