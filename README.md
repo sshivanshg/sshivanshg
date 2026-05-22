@@ -36,13 +36,6 @@ class Shivansh:
 
 </div>
 
-```
-amp     ──→  marshall  /  line6 helix
-guitar  ──→  strat  //  les paul  //  ibanez
-pedals  ──→  tube screamer  ·  big muff  ·  delay
-daw     ──→  reaper  +  neural dsp
-```
-
 > *"good code is like a good solo — clean, tight, and hits when it counts."*
 
 ---
