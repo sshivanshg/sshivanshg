@@ -1,82 +1,53 @@
 <div align="center">
 
-```
-    ╔═══════════════════════════════════════════════╗
-    ║  > Shivansh.gupta // engineer.musician        ║
-    ║  > status: compiling riffs && shipping code   ║
-    ╚═══════════════════════════════════════════════╝
-```
+# Shivansh Gupta
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Shivansh+%F0%9F%91%8B;I+write+code+by+day;I+shred+guitar+by+night;welcome+to+my+corner+of+the+grid)
+**Product engineer building useful things at the intersection of systems, AI, and good taste.**
 
-</div>
+[Portfolio](https://shivanshg.tech/) · [GitHub](https://github.com/sshivanshg) · Delhi, India
 
----
-
-```py
-class Shivansh:
-    def __init__(self):
-        self.role        = "software engineer"
-        self.stack       = ["python", "typescript", "go", "rust"]
-        self.hobbies     = ["electric guitar 🎸", "open source", "synth-rock"]
-        self.currently   = "debugging life @ 120bpm"
-        self.fuel        = ["coffee", "distortion pedals", "stack overflow"]
-
-    def vibe(self):
-        return "fast keys, faster riffs"
-```
-
----
-
-### 🎸 the rig
-
-<div align="center">
-
-![Guitar Riff](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=700&color=00FF9C&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%8E%B8+plugged+in.+tuned+to+E+standard;%E2%96%B6+warming+up...+gain+%40+7;%E2%99%AA+now+riffing%3A+hotel+california;%E2%99%AA+now+riffing%3A+sweet+child+o%27+mine;%E2%99%AA+now+riffing%3A+smoke+on+the+water;%E2%9A%A1+amp.gain+%3D+MAX)
+<img src="./assets/riff-loop.svg" width="100%" alt="An animated electric-guitar signal chain: idea, build, ship, repeat." />
 
 </div>
 
-> *"good code is like a good solo — clean, tight, and hits when it counts."*
+## The short version
 
----
+I make products from the awkward middle: an interesting problem, an unfinished system, and a lot of sharp edges. I like taking that mess through architecture, interface, and launch until it feels obvious to the person using it.
 
-### ⚡ stack
+When I am away from a terminal, I play electric guitar. The overlap is not accidental: rhythm, restraint, signal, feedback, and knowing when one more note makes the whole thing worse.
 
-<p>
-  <img src="https://img.shields.io/badge/python-000?style=flat-square&logo=python&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/typescript-000?style=flat-square&logo=typescript&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/go-000?style=flat-square&logo=go&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/rust-000?style=flat-square&logo=rust&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/react-000?style=flat-square&logo=react&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/node.js-000?style=flat-square&logo=node.js&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/docker-000?style=flat-square&logo=docker&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/linux-000?style=flat-square&logo=linux&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/vim-000?style=flat-square&logo=vim&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/git-000?style=flat-square&logo=git&logoColor=00FF9C" />
-</p>
+## Current setlist
 
----
+| Product | What I am building |
+| --- | --- |
+| [Brixloop](https://brixloop.com) | An operating system for logistics teams: workflows, visibility, and the control layer behind real-world movement. |
+| [Deskzy](https://deskzy.xyz) | A browser-first file toolkit. Most transformations happen locally, with an edge-native platform for the parts that need a backend. |
+| [Vellum / MarketMind](https://vellum-ruby-sigma.vercel.app) | Cited, time-aware market research over filings, news, transcripts, and a user’s own documents. |
+| [TinyTales](https://www.tinytalesvideos.com/) | A personalized children’s-story pipeline that turns an idea and a photo into illustrated books and narrated video. |
+| [Khabro](https://github.com/sshivanshg/TAZAkhabar) | Local news, made legible: a universal Expo client paired with a .NET API and editorial workflow. |
 
-### 🎧 now playing
+## What I care about when shipping
 
-```
- ┌─────────────────────────────────────────────┐
- │  ♫  eagles — hotel california               │
- │  ▶  ━━━━━●───────────────  03:13 / 06:31    │
- │  ⏮   ⏯   ⏭     vol ▓▓▓▓▓▓▓░░░               │
- └─────────────────────────────────────────────┘
+```text
+01  Start with the operational reality, not the feature list.
+02  Make the complex path feel calm for the person on the other end.
+03  Use AI where it improves the work; keep the guardrails explicit.
+04  Treat the product, the infrastructure, and the interface as one instrument.
+05  Ship, listen, retune, repeat.
 ```
 
----
+## Signal chain
+
+```text
+product sense ──> TypeScript / React / Next.js ──> Cloudflare / Supabase
+      │                         │
+      └──> Python / Go / .NET ──┴──> AI systems, data workflows, and real users
+```
+
+I am especially interested in products with a hard backend and a human-facing surface: tools for teams, research systems with receipts, privacy-conscious utilities, and creative systems that make someone’s day more interesting.
 
 <div align="center">
 
-```
-  ┌──╮       ┌──╮  stay curious.
-  │  │ ━━━━━ │  │  stay loud.
-  └──╯       └──╯  ship something.
-```
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sshivanshg.sshivanshg&left_color=000&right_color=00FF9C&left_text=visitors)
+<sub>Good software has a groove: clear intent, clean execution, no wasted notes.</sub>
 
 </div>

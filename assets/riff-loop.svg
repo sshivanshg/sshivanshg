@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Shivansh's build loop</title>
+  <desc id="description">An electric guitar connects idea, build, ship, and repeat in an animated signal chain.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#161b22"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="copper" x1="0" x2="1">
+      <stop stop-color="#d4a05c"/>
+      <stop offset="1" stop-color="#f0c987"/>
+    </linearGradient>
+    <pattern id="grain" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="3" r=".65" fill="#ffffff" opacity=".055"/>
+      <circle cx="11" cy="9" r=".5" fill="#ffffff" opacity=".04"/>
+    </pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="20" fill="url(#panel)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grain)"/>
+  <path d="M-40 284 C200 215 360 328 570 250 S940 208 1240 270" fill="none" stroke="#d4a05c" stroke-width="1" opacity=".22"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#8b949e" font-size="14" letter-spacing="2">
+    <text x="78" y="70">SHIVANSH.GUPTA / PRODUCT ENGINEER</text>
+    <text x="78" y="306">SIGNAL CHAIN / ALWAYS IN MOTION</text>
+  </g>
+
+  <g transform="translate(78 112)">
+    <path d="M0 76 C14 40 47 35 67 59 L92 34 C109 17 137 30 136 55 C135 72 122 84 110 92 L72 118 C49 136 14 123 0 95 Z" fill="#1f6f78" stroke="url(#copper)" stroke-width="3"/>
+    <circle cx="48" cy="83" r="14" fill="#0d1117" stroke="#d4a05c" stroke-width="2"/>
+    <rect x="108" y="61" width="172" height="15" rx="7" fill="#9d6a3a" transform="rotate(-12 108 61)"/>
+    <path d="M130 49 L292 14 L298 40 L137 75 Z" fill="#5e3e27" stroke="#d4a05c" stroke-width="2"/>
+    <path d="M282 7 L328 0 L337 34 L291 45 Z" fill="#161b22" stroke="#d4a05c" stroke-width="2"/>
+    <g stroke="#f0c987" stroke-width="1.25" opacity=".95">
+      <path d="M126 55 L326 16"/>
+      <path d="M128 60 L327 21"/>
+      <path d="M130 65 L329 26"/>
+      <path d="M132 70 L330 31"/>
+      <path d="M134 75 L332 36"/>
+      <path d="M136 80 L334 41"/>
+    </g>
+    <g fill="#d4a05c">
+      <circle cx="319" cy="7" r="4"/><circle cx="327" cy="13" r="4"/><circle cx="333" cy="23" r="4"/><circle cx="321" cy="35" r="4"/>
+    </g>
+  </g>
+
+  <g transform="translate(492 120)">
+    <g fill="#0d1117" stroke="#30363d" stroke-width="2">
+      <rect x="0" y="0" width="132" height="92" rx="12"/>
+      <rect x="176" y="0" width="132" height="92" rx="12"/>
+      <rect x="352" y="0" width="132" height="92" rx="12"/>
+      <rect x="528" y="0" width="132" height="92" rx="12"/>
+    </g>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" text-anchor="middle">
+      <text x="66" y="40" fill="#f0c987">IDEA</text><text x="66" y="65" fill="#8b949e">listen closely</text>
+      <text x="242" y="40" fill="#f0c987">BUILD</text><text x="242" y="65" fill="#8b949e">make it real</text>
+      <text x="418" y="40" fill="#f0c987">SHIP</text><text x="418" y="65" fill="#8b949e">find the signal</text>
+      <text x="594" y="40" fill="#f0c987">RETUNE</text><text x="594" y="65" fill="#8b949e">learn in public</text>
+    </g>
+    <g stroke="#d4a05c" stroke-width="2" fill="none" opacity=".86">
+      <path d="M136 46 H165"/><path d="M312 46 H341"/><path d="M488 46 H517"/>
+    </g>
+    <g fill="#f0c987">
+      <circle cx="150" cy="46" r="4"><animate attributeName="opacity" values=".25;1;.25" dur="1.8s" begin="0s" repeatCount="indefinite"/></circle>
+      <circle cx="326" cy="46" r="4"><animate attributeName="opacity" values=".25;1;.25" dur="1.8s" begin=".45s" repeatCount="indefinite"/></circle>
+      <circle cx="502" cy="46" r="4"><animate attributeName="opacity" values=".25;1;.25" dur="1.8s" begin=".9s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+
+  <g stroke="#1f6f78" stroke-width="2" opacity=".7">
+    <path d="M76 93 h22 M87 82 v22"/><path d="M1105 284 h22 M1116 273 v22"/>
+  </g>
+  <circle cx="1138" cy="78" r="28" fill="#1f6f78" opacity=".15" filter="url(#soft)">
+    <animate attributeName="r" values="22;34;22" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1138" cy="78" r="4" fill="#f0c987"><animate attributeName="opacity" values=".35;1;.35" dur="2.6s" repeatCount="indefinite"/></circle>
+</svg>
