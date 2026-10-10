@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380">
+<defs><linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#c6ff00" stop-opacity=".3"/><stop offset="1" stop-color="#c6ff00"/></linearGradient></defs>
+<style>
+.h{font:500 11px ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace;fill:#c6ff00;letter-spacing:3px}
+.c{font:500 10px ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace;fill:#5d655d;letter-spacing:2px}
+.p{font:700 17px ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace;fill:#f2f5ea}
+.d{font:400 12px ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace;fill:#7a827a}
+.t{font:500 11px ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace;fill:#c6ff00;letter-spacing:2px}
+.f{opacity:0;animation:fi .7s ease forwards}@keyframes fi{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}
+.sp{stroke-dasharray:400;stroke-dashoffset:400;animation:dr 2s ease forwards}@keyframes dr{to{stroke-dashoffset:0}}
+</style>
+<rect width="900" height="380" rx="20" fill="#050607"/>
+<rect x=".5" y=".5" width="899" height="379" rx="20" fill="none" stroke="#fff" stroke-opacity=".1"/>
+<text x="40" y="46" class="h">$ top --projects</text>
+<text x="860" y="46" class="h" text-anchor="end">4 RUNNING<animate attributeName="opacity" values="1;.4;1" dur="2s" repeatCount="indefinite"/></text>
+<text x="40" y="80" class="c">PID</text><text x="110" y="80" class="c">PROCESS</text><text x="340" y="80" class="c">LOAD</text><text x="560" y="80" class="c">ACTIVITY</text><text x="860" y="80" class="c" text-anchor="end">TYPE</text>
+<line x1="40" y1="90" x2="860" y2="90" stroke="#fff" stroke-opacity=".12"/>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.300;1" dur="1.00s" fill="freeze"/>
+<text x="40" y="118" class="d">5315</text>
+<text x="110" y="118" class="p">arth-saathi</text>
+<text x="110" y="138" class="d">AI-first OS for India's small shops</text>
+<rect x="340" y="106" width="200" height="10" fill="#fff" fill-opacity=".05"/>
+<rect x="340" y="106" width="100" height="10" fill="url(#bar)"><animate attributeName="width" values="66;70;147;137;59;84;117;99;149;66" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1"/></rect>
+<polyline points="560,108 568,111 576,102 584,102 592,101 600,108 608,100 616,100 624,98 632,96 640,100 648,95 656,109 664,96 672,104 680,99 688,105 696,103 704,99 712,104 720,96 728,103 736,95 744,102" fill="none" stroke="#c6ff00" stroke-opacity=".7" stroke-width="1.2" stroke-dasharray="400" stroke-dashoffset="400"><animate attributeName="stroke-dashoffset" from="400" to="0" begin="0.6s" dur="2s" fill="freeze"/></polyline>
+<text x="860" y="118" class="t" text-anchor="end">[FLAGSHIP]</text>
+<line x1="40" y1="154" x2="860" y2="154" stroke="#fff" stroke-opacity=".06"/>
+</g><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.417;1" dur="1.20s" fill="freeze"/>
+<text x="40" y="180" class="d">6782</text>
+<text x="110" y="180" class="p">agora</text>
+<text x="110" y="200" class="d">multi-agent debate arena</text>
+<rect x="340" y="168" width="200" height="10" fill="#fff" fill-opacity=".05"/>
+<rect x="340" y="168" width="100" height="10" fill="url(#bar)"><animate attributeName="width" values="149;145;152;75;63;152;151;106;126;149" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1"/></rect>
+<polyline points="560,163 568,166 576,159 584,174 592,156 600,173 608,174 616,163 624,166 632,160 640,165 648,156 656,164 664,169 672,163 680,169 688,164 696,163 704,166 712,165 720,162 728,171 736,174 744,156" fill="none" stroke="#c6ff00" stroke-opacity=".7" stroke-width="1.2" stroke-dasharray="400" stroke-dashoffset="400"><animate attributeName="stroke-dashoffset" from="400" to="0" begin="0.8s" dur="2s" fill="freeze"/></polyline>
+<text x="860" y="180" class="t" text-anchor="end">[OSS]</text>
+<line x1="40" y1="216" x2="860" y2="216" stroke="#fff" stroke-opacity=".06"/>
+</g><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.500;1" dur="1.40s" fill="freeze"/>
+<text x="40" y="242" class="d">6275</text>
+<text x="110" y="242" class="p">tinytales</text>
+<text x="110" y="262" class="d">AI storybooks + films for kids</text>
+<rect x="340" y="230" width="200" height="10" fill="#fff" fill-opacity=".05"/>
+<rect x="340" y="230" width="100" height="10" fill="url(#bar)"><animate attributeName="width" values="104;83;159;121;155;162;69;70;147;104" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1"/></rect>
+<polyline points="560,226 568,229 576,222 584,231 592,234 600,226 608,230 616,218 624,222 632,228 640,229 648,233 656,235 664,220 672,230 680,226 688,218 696,231 704,228 712,226 720,234 728,225 736,218 744,232" fill="none" stroke="#c6ff00" stroke-opacity=".7" stroke-width="1.2" stroke-dasharray="400" stroke-dashoffset="400"><animate attributeName="stroke-dashoffset" from="400" to="0" begin="1.0s" dur="2s" fill="freeze"/></polyline>
+<text x="860" y="242" class="t" text-anchor="end">[AI]</text>
+<line x1="40" y1="278" x2="860" y2="278" stroke="#fff" stroke-opacity=".06"/>
+</g><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.562;1" dur="1.60s" fill="freeze"/>
+<text x="40" y="304" class="d">3555</text>
+<text x="110" y="304" class="p">devhelp</text>
+<text x="110" y="324" class="d">dev env in one command</text>
+<rect x="340" y="292" width="200" height="10" fill="#fff" fill-opacity=".05"/>
+<rect x="340" y="292" width="100" height="10" fill="url(#bar)"><animate attributeName="width" values="152;118;99;119;142;117;60;196;118;152" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1;.4 0 .6 1"/></rect>
+<polyline points="560,292 568,298 576,283 584,282 592,285 600,281 608,291 616,297 624,284 632,282 640,289 648,281 656,288 664,291 672,296 680,280 688,289 696,295 704,291 712,297 720,297 728,282 736,292 744,285" fill="none" stroke="#c6ff00" stroke-opacity=".7" stroke-width="1.2" stroke-dasharray="400" stroke-dashoffset="400"><animate attributeName="stroke-dashoffset" from="400" to="0" begin="1.2s" dur="2s" fill="freeze"/></polyline>
+<text x="860" y="304" class="t" text-anchor="end">[CLI]</text>
+<line x1="40" y1="340" x2="860" y2="340" stroke="#fff" stroke-opacity=".06"/>
+</g>
+</svg>

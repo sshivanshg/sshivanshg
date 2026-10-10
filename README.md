@@ -1,15 +1,7 @@
-<img src="./assets/hero.svg" width="100%" alt="Shivansh Gupta — I make software that feels inevitable."/>
+<img src="./assets/hero.svg" width="100%" alt="Shivansh Gupta — founder, full-stack, AI systems"/>
 
-<img src="./assets/silk.svg" width="100%" alt=""/>
+<img src="./assets/stack.svg" width="100%" alt="TypeScript · Next.js · Python · LangGraph · Claude · Postgres · Prisma · Docker · Terraform · Vercel · Cloudflare"/>
 
-<img src="./assets/work.svg" width="100%" alt="Selected work: Arth Saathi, LexVault, Agora, TinyTales, DevHelp"/>
+<img src="./assets/projects.svg" width="100%" alt="Projects: Arth Saathi, Agora, TinyTales, DevHelp"/>
 
-<br/>
-
-<p align="center">
-  <sub><i>TypeScript · Next.js · Python · LangGraph · Claude · Postgres · Vercel · Cloudflare</i></sub>
-</p>
-
-<img src="./assets/silk.svg" width="100%" alt=""/>
-
-<p align="center"><sub>every pixel above is a hand-written, animated SVG — no gifs, no js.</sub></p>
+<p align="center"><sub><code>// rendered with zero javascript — every frame is math inside an svg</code></sub></p>

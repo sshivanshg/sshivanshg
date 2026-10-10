@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 64" width="900" height="64">
+<defs><linearGradient id="m" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".12" stop-color="#fff"/><stop offset=".88" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><mask id="mk"><rect width="900" height="64" fill="url(#m)"/></mask></defs>
+<style>.k{font:600 13px ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace;fill:#c9d1c3;letter-spacing:3px}.k tspan{fill:#c6ff00}</style>
+<rect width="900" height="64" rx="14" fill="#050607"/>
+<g mask="url(#mk)"><g><animateTransform attributeName="transform" type="translate" from="0 0" to="-1210 0" dur="28s" repeatCount="indefinite"/>
+<text x="0" y="37" class="k">TYPESCRIPT  ◆  NEXT.JS  ◆  PYTHON  ◆  LANGGRAPH  ◆  CLAUDE  ◆  POSTGRES  ◆  PRISMA  ◆  DOCKER  ◆  TERRAFORM  ◆  VERCEL  ◆  CLOUDFLARE  ◆  TYPESCRIPT  ◆  NEXT.JS  ◆  PYTHON  ◆  LANGGRAPH  ◆  CLAUDE  ◆  POSTGRES  ◆  PRISMA  ◆  DOCKER  ◆  TERRAFORM  ◆  VERCEL  ◆  CLOUDFLARE  ◆  TYPESCRIPT  ◆  NEXT.JS  ◆  PYTHON  ◆  LANGGRAPH  ◆  CLAUDE  ◆  POSTGRES  ◆  PRISMA  ◆  DOCKER  ◆  TERRAFORM  ◆  VERCEL  ◆  CLOUDFLARE  ◆  </text></g></g>
+<rect x=".5" y=".5" width="899" height="63" rx="14" fill="none" stroke="#fff" stroke-opacity=".1"/>
+</svg>
